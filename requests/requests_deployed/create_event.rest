@@ -1,0 +1,8 @@
+POST https://test-get-events-function.azurewebsites.net/api/events
+Content-Type: application/json
+
+{
+"EventDate": "2020-09-23T00:00:00.000Z",
+"EventTime": "1970-01-01T11:29:06.996Z",
+"PeopleCount": 2
+}

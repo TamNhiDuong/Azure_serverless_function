@@ -1,0 +1,1 @@
+GET https://test-get-events-function.azurewebsites.net/api/filteredevents?from=2018-11-12&to=2019-12-30

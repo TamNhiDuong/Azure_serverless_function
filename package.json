@@ -1,0 +1,13 @@
+{
+  "name": "http_database_func",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "mssql": "6.2.3"
+  },
+  "devDependencies": {}
+}
