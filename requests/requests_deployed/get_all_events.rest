@@ -1,0 +1,1 @@
+GET https://test-get-events-function.azurewebsites.net/api/events
