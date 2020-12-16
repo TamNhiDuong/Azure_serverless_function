@@ -1,0 +1,6 @@
+POST https://test-get-events-function.azurewebsites.net/api/events
+Content-Type: application/json
+
+{
+"PeopleCount": 5
+}
